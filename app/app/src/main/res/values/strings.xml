@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Call Reminder</string>
+    <string name="recording">Gravações</string>
+    <string name="search">Buscar gravação</string>
 </resources>

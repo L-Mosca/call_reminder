@@ -7,4 +7,26 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--Sky Blue-->
+    <color name="sky_blue_100">#FFEBF2FD</color>
+    <color name="sky_blue_200">#FFC7DFFB</color>
+    <color name="sky_blue_300">#FF92C5F9</color>
+    <color name="sky_blue_400">#FF6EABF7</color>
+    <color name="sky_blue_500">#FF5777EF</color>
+    <color name="sky_blue_600">#FF4661D7</color>
+    <color name="sky_blue_700">#FF344CBF</color>
+    <color name="sky_blue_800">#FF2336A7</color>
+    <color name="sky_blue_900">#FF12208F</color>
+
+    <!--Gray-->
+    <color name="gray_100">#FFF8F9F9</color>
+    <color name="gray_200">#FFEDF1F2</color>
+    <color name="gray_300">#FFEAEEEF</color>
+    <color name="gray_400">#FFD1D5D6</color>
+    <color name="gray_500">#FFB8BBBC</color>
+    <color name="gray_600">#FFA0A3A4</color>
+    <color name="gray_700">#FF878A8B</color>
+    <color name="gray_800">#FF6F7273</color>
+    <color name="gray_900">#FF56595A</color>
 </resources>

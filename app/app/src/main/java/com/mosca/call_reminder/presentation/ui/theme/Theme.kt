@@ -1,4 +1,4 @@
-package com.mosca.call_reminder.ui.theme
+package com.mosca.call_reminder.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
